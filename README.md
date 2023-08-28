@@ -11,5 +11,5 @@ This application is a user-friendly RShiny application designed to simplify bioi
 * Clustered heatmap of counts remaining after filtering.
 * Scatter plot of principal component analysis projections where user can visualize the top N principal components.
 4. **Differential Expression:** Simply upload differential expression dataset to visualise it as a volcano plot with customizable X axis and Y axis. View the filtered DEGs in a sortable table.
-5. **Gene Set Enrichment Analysis:**
+5. **Gene Set Enrichment Analysis:** Upload the gene set enrichment analysis result file to view the top 'n' enriched pathways, view the data based on different p-adjusted values and visualize a scatter plot of padj vs NES (normalized enrichment score).
 
