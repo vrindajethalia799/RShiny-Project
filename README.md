@@ -1,4 +1,4 @@
-# RShiny Application for Some Bioinformatics Analysis
+# RShiny Application for Bioinformatics Analysis
 
 ## About
 This application is a user-friendly RShiny application designed to simplify bioinformatic analyses of mRNA sequencing data. Tailored for researchers, biologists, and bioinformaticians, this Bioinformatics Analysis webapp aims to streamline the tasks of processing genomic data and extracting meaningful insights.
